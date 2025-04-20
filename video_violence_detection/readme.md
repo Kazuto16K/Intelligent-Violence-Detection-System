@@ -39,12 +39,12 @@ We evaluated the performance of several deep learning architectures:
 
 | Model Architecture                        | Description                                |
 |------------------------------------------|--------------------------------------------|
-| 🧱 **CNN + LSTM**                         | Extracts spatial features with CNN and temporal features with LSTM |
-| 🎞️ **3D CNN**                            | Captures spatial and temporal features in a unified 3D kernel |
-| 🔄 **ConvLSTM**                          | Combines convolution and LSTM for better spatio-temporal learning |
-| 📱 **MobileNet + BiLSTM**                | Lightweight MobileNet features passed to Bi-directional LSTM |
-| 🏛️ **VGG16 + BiLSTM**                    | Pretrained VGG16 followed by a BiLSTM classifier |
-| ⚡ **Xception + LSTM**                    | Depthwise separable CNN (Xception) with LSTM for efficient classification |
+|  **CNN + LSTM**                         | Extracts spatial features with CNN and temporal features with LSTM |
+|  **3D CNN**                            | Captures spatial and temporal features in a unified 3D kernel |
+|  **ConvLSTM**                          | Combines convolution and LSTM for better spatio-temporal learning |
+|  **MobileNet + BiLSTM**                | Lightweight MobileNet features passed to Bi-directional LSTM |
+|  **VGG16 + BiLSTM**                    | Pretrained VGG16 followed by a BiLSTM classifier |
+|  **Xception + LSTM**                    | Depthwise separable CNN (Xception) with LSTM for efficient classification |
 
 ---
 
