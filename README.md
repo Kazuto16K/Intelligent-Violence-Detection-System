@@ -4,7 +4,7 @@ This project presents a comprehensive approach to **violence detection using dee
 
 ---
 
-## 🧩 Project Overview
+##  Project Overview
 
 The system is divided into two major parts:
 
@@ -53,7 +53,19 @@ The system is divided into two major parts:
 
 ---
 
-## 📌 Future Improvements
+##  Upcoming Work
+
+- We plan to build a **Flask-based web application** where users can:
+  - Upload videos for offline detection
+  - Use their own **webcam** for real-time violence detection
+- **Twilio Integration**: To send alert messages to the user’s **mobile number**
+- **Mailtrap Integration**: To send **email alerts** to the user’s registered email ID when violence is detected
+
+---
+
+---
+
+##  Future Improvements
 
 - Integrate advanced pose-based datasets (e.g., NTU RGB+D, PoseTrack)
 - Audio cues can be added for more feature extraction
