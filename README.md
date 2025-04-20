@@ -63,8 +63,6 @@ The system is divided into two major parts:
 
 ---
 
----
-
 ##  Future Improvements
 
 - Integrate advanced pose-based datasets (e.g., NTU RGB+D, PoseTrack)
