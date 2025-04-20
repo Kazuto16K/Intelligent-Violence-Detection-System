@@ -54,5 +54,4 @@ Each model’s accuracy and loss metrics were tracked during training. Performan
 
 ---
 
-## 📂 Project Structure (Part 1)
 
