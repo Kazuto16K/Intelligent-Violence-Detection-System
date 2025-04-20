@@ -70,4 +70,4 @@ The system is divided into two major parts:
 
 ---
 
-For more technical details, refer to the [Part 1 README](./violence_detection/README.md) and [Part 2 README](./realtime_violence_detection/README.md).
+For more technical details, refer to the [Part 1 README](./video_violence_detection/README.md) and [Part 2 README](./realtime_violence_detection/README.md).
